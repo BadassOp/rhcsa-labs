@@ -54,7 +54,7 @@ Each topic may contain the following resources:
 
 ### Fundamentals
 
-- [Virtualization](./01-fundamentals/Virtualization/README.md) — Bare-metal and hosted virtualization, hypervisors, and virtual machines.
+- [Virtualization](./01-Fundamentals/Virtualization/README.md) — Bare-metal and hosted virtualization, hypervisors, and virtual machines.
 
 More topics will be linked here as they are documented.
 
